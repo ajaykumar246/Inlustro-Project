@@ -1,6 +1,6 @@
 # Inlustro-Project
 Team Members:
-1.Ajay Kumar S
-2.Kathirresan S
-3.Manoj H
-4.Mohamed Farhan Hussian
+1.Ajay Kumar S<br>
+2.Kathirresan S<br>
+3.Manoj H<br>
+4.Mohamed Farhan Hussian Z
